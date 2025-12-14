@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "クリスマス・イブRap",
+  "base_artist": "KICK THE CAN CREW",
+  "createdAt": "2025-12-14T03:46:48.354190Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クリスマス・イブRap",
+      "artist": "KICK THE CAN CREW",
+      "has_synced": true,
+      "path": "select/01_クリスマス・イブRap_KICK_THE_CAN_CREW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クリスマス・イブRap - Christmas Eve Rap",
+      "artist": "KICK THE CAN CREW",
+      "has_synced": true,
+      "path": "select/02_クリスマス・イブRap_-_Christmas_Eve_Rap_KICK_THE_CAN_CREW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クリスマス・イブRap",
+      "artist": "KICK THE CAN CREW",
+      "has_synced": true,
+      "path": "select/03_クリスマス・イブRap_KICK_THE_CAN_CREW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリスマス・イブRap",
+      "artist": "KTCC",
+      "has_synced": false,
+      "path": "select/pl_01_クリスマス・イブRap_KTCC.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "クリスマス・イブRap",
+      "artist": "KTCC",
+      "has_synced": false,
+      "path": "select/pl_02_クリスマス・イブRap_KTCC.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "クリスマスイブRAP",
+      "artist": "KTCC",
+      "has_synced": false,
+      "path": "select/pl_03_クリスマスイブRAP_KTCC.txt"
+    }
+  ]
+}
